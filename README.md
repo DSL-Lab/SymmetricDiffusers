@@ -21,14 +21,11 @@ This is the official PyTorch implementation for the paper:
 Please consider citing our paper in your publications if it helps. Here is the bibtex:
 
 ```
-@misc{zhang2024symmetricdiffuserslearningdiscretediffusion,
-      title={SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups}, 
-      author={Yongxing Zhang and Donglin Yang and Renjie Liao},
-      year={2024},
-      eprint={2410.02942},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.02942}, 
+@article{zhang2024symmetricdiffusers,
+  title={SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups},
+  author={Zhang, Yongxing and Yang, Donglin and Liao, Renjie},
+  journal={arXiv preprint arXiv:2410.02942},
+  year={2024}
 }
 ```
 
